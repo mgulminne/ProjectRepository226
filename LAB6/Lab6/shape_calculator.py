@@ -9,7 +9,7 @@ def main():
    # if-else yerine dictionary kullanıyoruz
     operations_dic = {
        "circle_area": geometry_utils.circle_area,
-       "circle_perimeter": geomeetry_utils.circle_perimeter,
+       "circle_perimeter": geometry_utils.circle_perimeter,
        "rectangle_area": geometry_utils.rectangle_area(),
        "rectangle_perimeter": geometry_utils.rectangle_perimeter,
        "triangle_area": geometry_utils.triangle_area(),
